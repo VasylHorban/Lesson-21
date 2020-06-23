@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+#timetable{
+    width: 300px;
+}
+#draggable{
+    height: 10px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 50px;
+    background: yellow;
+}
+
+#droppable{
+    width: 200px;
+    text-align: center;
+    padding: 100px 0;
+    background: lightblue;
+}
